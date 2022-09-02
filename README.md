@@ -1,23 +1,28 @@
-# TÍTULO DO PROJETO
+# TourTickets
+Análise e desenvolvimento De Sistemas
 
-`CURSO`
+Desenvolvimento de Aplicação Móvel Em Um Ambiente De Negócio
 
-`DISCIPLINA`
+Terceiro
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
+Aplicação para suporte a vendas de passagens de pacotes de turismo terrestres. Que Seje capaz de efetuar a venda pelo aplicativo, reservando as passagens dos locais desejados pelos clientes,bem como também,reservando os acentos dos ônibus.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Fernanda Macieira
 
-## Orientador
+Ian Amaral
 
-* Nome completo do professor 1
+Júlio Lustosa
+
+Mislene Tavares
+
+Paulo Vitor
+
+Tiago Miquéias
+
+# Orientador
+
+Will Ricardo Dos Santos Machado
 
 ## Instruções de utilização
 
