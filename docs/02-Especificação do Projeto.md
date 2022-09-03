@@ -75,19 +75,25 @@ Obs.: todas as informações para gerar os indicadores devem estar no diagrama d
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
-### Requisitos Funcionais
+### Requisitos funcionais
+| ID  | Descrição | Prioridade |
+| ------------- | ------------- | ------------- |
+| RF-01 | A aplicação deve apresentar os pacotes de viagens e seus respectivos destinos. | Alta |
+| RF-02 | A aplicação deve apresentar na página os serviços prestados sobre viajens e pacotes  | Alta |
+| RF-03 | A aplicação deve efetuar cadastro ,alteração e exclusão de clientes| Baixa |
+| RF-04 | A aplicação deve acompanhar o andamento do serviço solicitado pelo cliente. | Média |
+| RF-05 | A aplicação deve realizar a escolha dos assentos de lugares pelo respectivo cliente | Média |
+| RF-06 | A aplicação deve informar a disponibilidade das viajens . | alta |
+| RF-07 | A aplicação deve cadastrar as atividades referentes as viajens pesquisadas pelo usuário no aplicativo.| média |
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+### Requisitos não-funcionais
 
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+| ID  | Descrição | Prioridade |
+| ------------- | ------------- | ------------- |
+| RNF-01 | O site deve ser publicado em algum repositório público acessível na internet. | Alta |
+| RNF-02 | O sistema deve ser responsivo para rodar em um dispositivo móvel  | Alta |
+| RNF-03 | O sistema deve processar requisições do usuário em no máximo 3s | Baixa |
+| RNF-04 | Opção de marcar os tópicos de atividades que foram concluídos com checkbox. | Baixa |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
