@@ -79,12 +79,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ID  | Descrição | Prioridade |
 | ------------- | ------------- | ------------- |
 | RF-01 | A aplicação deve apresentar os pacotes de viagens e seus respectivos destinos. | Alta |
-| RF-02 | A aplicação deve apresentar na página os serviços prestados sobre viajens e pacotes  | Alta |
-| RF-03 | A aplicação deve efetuar cadastro ,alteração e exclusão de clientes| Baixa |
+| RF-02 | A aplicação deve apresentar na página os serviços prestados sobre viajens e pacotes  | Baixa |
+| RF-03 | A aplicação deve efetuar cadastro ,alteração e exclusão de clientes| Alta |
 | RF-04 | A aplicação deve acompanhar o andamento do serviço solicitado pelo cliente. | Média |
-| RF-05 | A aplicação deve realizar a escolha dos assentos de lugares pelo respectivo cliente | Média |
+| RF-05 | A aplicação deve realizar a escolha dos assentos de lugares pelo respectivo cliente/usuário | Média |
 | RF-06 | A aplicação deve informar a disponibilidade das viajens . | alta |
-| RF-07 | A aplicação deve cadastrar as atividades referentes as viajens pesquisadas pelo usuário no aplicativo.| média |
+| RF-07 | A aplicação deve cadastrar as atividades referentes as viajens pesquisadas pelo usuário no aplicativo.| Baixa |
 
 ### Requisitos não-funcionais
 
@@ -93,7 +93,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-01 | O site deve ser publicado em algum repositório público acessível na internet. | Alta |
 | RNF-02 | O sistema deve ser responsivo para rodar em um dispositivo móvel  | Alta |
 | RNF-03 | O sistema deve processar requisições do usuário em no máximo 3s | Baixa |
-| RNF-04 | Opção de marcar os tópicos de atividades que foram concluídos com checkbox. | Baixa |
+| RNF-04 | Opção de marcar os tópicos de atividades que foram concluídos com checkbox. | Média |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
