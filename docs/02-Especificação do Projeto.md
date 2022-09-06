@@ -79,12 +79,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | ID  | Descrição | Prioridade |
 | ------------- | ------------- | ------------- |
 | RF-01 | A aplicação deve apresentar os pacotes de viagens e seus respectivos destinos. | Alta |
-| RF-02 | A aplicação deve apresentar na página os serviços prestados sobre viajens e pacotes  | Baixa |
+| RF-02 | A aplicação deve apresentar na página os serviços prestados sobre viagens e pacotes  | Baixa |
 | RF-03 | A aplicação deve efetuar cadastro ,alteração e exclusão de clientes| Alta |
 | RF-04 | A aplicação deve acompanhar o andamento do serviço solicitado pelo cliente. | Média |
 | RF-05 | A aplicação deve realizar a escolha dos assentos de lugares pelo respectivo cliente/usuário | Média |
-| RF-06 | A aplicação deve informar a disponibilidade das viajens . | alta |
-| RF-07 | A aplicação deve cadastrar as atividades referentes as viajens pesquisadas pelo usuário no aplicativo.| Baixa |
+| RF-06 | A aplicação deve informar a disponibilidade das viagens . | alta |
+| RF-07 | A aplicação deve cadastrar as atividades referentes as viagens pesquisadas pelo usuário no aplicativo.| Baixa |
+| RF-08 | A aplicacação deve informar tempo de viagen e paradas programadas.| Baixa |
+| RF-09 | A aplicação deve sugerir buscar pela data mais barata. | Média |
+| RF-10 | A aplicação deve oferecer o usuário formas de pagamento via cartão e pix. | Alta |
+| RF-11 | A aplicação deve apresentar Sac para dúvidas e problemas para o usuário. | Média |
+| RF-12 | A aplicação deve notificar sobre prazos e horários de cada viagen. | Média |
 
 ### Requisitos não-funcionais
 
