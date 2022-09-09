@@ -10,6 +10,14 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
 
+| Jade Miranda | Gaspar Rocha | Ênio Braga |
+| ---        |    ----   |          --- |
+| <img src="/docs/img/gerente.jpg" alt="Madalena Fernandes" width="100" height="100"/>     | <img src="/docs/img/cliente.jpg" alt="Inês Silva" width="100" height="100"/>       | <img src="/docs/img/enio.jpg" alt="Ênio Gaspari" width="100" height="100"/> |
+| Idade: 69 anos <br>Ocupação: Guia turístico (autônomo)| Idade: 29 anos <br>Ocupação: Empreendedora no ramode salgados para festas       | Idade: 45 anos <br>Ocupação: Motorista |
+| Hobbies, História:<br><ul><li>Assistir novelas</li><li>Viajar para cidades históricas</li></ul> | Hobbies, História:<br><ul><li>Passear aos fins de semana com a família</li><li>Ler bons livros</li></ul>  | Hobbies, História:<br><ul><li>Viajar, ler bons livros, visitar cidades históricas</li><li>Cuidar do jardim de sua casa</li></ul> |
+| Motivações: <br><ul><li>Conseguir dar feedbacks mais rápidos e precisos a clientes</li><li>Manter um bom equilíbrio entre trabalho e vida pessoal</li><li>Fidelizar clientes com a qualidade do atendimento</li></ul> | Motivações: <br><ul><li>A satisfação de um serviço bem prestado focando na total satisfação do cliente</li><li>Uma rotina de trabalho equilibrada</li></ul>           | Motivações: <br><ul><li>Poder proporcionar uma melhor qualidade de vida para a família, melhores escolas e lazer para os filhos</li><li>Conseguir maior flexibilidade no trabalho</li></ul>   |
+| Frustrações: <br><ul><li>Não conseguir organizar bem a jornada de trabalho e serviços pendentes</li><li>Não ter um canal de comunicação mais eficiente com clientes</li><li>Não fidelizar a quantidade de clientes que considera possível</li></ul> | Frustrações: <br><ul><li>Ter que fazer longas pesquisas e em diversos canais de comunicação para encontrar o que preciso</li><li>Não ter uma “pessoa” que ateste a confiabilidade dos serviços que serão prestados</li></ul> | Frustrações: <br><ul><li>xxxxxxxxxxxxxxx</li><li>xxxxxxxxxxxxxxxxxx</li></ul>  |
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
