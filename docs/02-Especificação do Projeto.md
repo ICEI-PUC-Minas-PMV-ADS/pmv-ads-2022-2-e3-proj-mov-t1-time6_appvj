@@ -185,7 +185,7 @@ Diagrama criado para estimar o tempo necessário de conclusão do projeto, exemp
 É possível ver os detalhes das etapas e suas respetivas tarefas na tabela abaixo, seguindo o seguinte esquema de organização: Tarefas, tempo de execução, datas limite para execução e por fim os antecessores, na tablea atecessores é especificado qual tarefa precisa ser cumprida para o inicio da etapa seguinte.
 
 
-![Gráfico de Gantt](img/tabela_gerenciamento_do_projeto.PNG)
+![Gráfico de Gantt](img/grafico_gerenciamento_do_projeto.PNG)
 
 ## Gerenciamento de Equipe
 
