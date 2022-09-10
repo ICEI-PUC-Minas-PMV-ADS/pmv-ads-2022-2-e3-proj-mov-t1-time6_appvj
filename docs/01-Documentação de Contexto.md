@@ -1,46 +1,29 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Após dois anos de pandemias, quarentenas e restrições, as pessoas valorizam mais as viagens e o tempo pessoal. A comercialização de pacotes de turismo entre os brasileiros para as férias de julho teve uma alta de 100%, quando comparado com o mesmo período em 2021¹.
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Pensando nisto, viu-se a necessidade de facilitar a comercialização de pacotes de viagens de ônibus por pessoas autônomas. Considerando que o mercado de turismo é uma das profissões de maior crescimento e emprego no mundo, principalmente no Brasil, vem se consolidando com uma das principais vocações econômicas do país. ² Partindo do pressuposto de que esses autônomos façam a suas vendas e reservas de clientes de forma analógica, o TourTicket surgiu com o objetivo de auxiliar essas pessoas para ter maior acessibilidade a suas vendas.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Diante disto, o presente trabalho tem como objetivo desenvolver uma solução tecnológica capaz de resolver esse problema. Sendo assim, buscará desenvolver uma aplicação onde o autônomo realizara a venda dos pacotes de viagens e das poltronas desejadas pelos clientes. Deste modo, será possível otimizar o processo e melhorar a experiência dos clientes e do vendedor.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+¹ JANONE, L. Demanda por pacotes de turismo para julho sobe 100%, diz associação do setor. Disponível em: <https://www.cnnbrasil.com.br/business/demanda-por-pacotes-de-turismo-para-julho-sobe-100-diz-associacao-do-setor/>. Acesso em: 9 sep. 2022.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+² MOURA, T.; GRECO, A. Pós-pandemia deve promover um “boom” no turismo. Disponível em: <https://revistacapitaleconomico.com.br/pos-pandemia-deve-promover-um-boom-no-turismo/>. Acesso em: 9 sep. 2022.
 
 ## Objetivos
+O objetivo geral deste projeto é tornar os agendamentos das poltronas e viagens mais eficientes. Como objetivos específicos, podemos ressaltar:
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+● Facilitar para o cliente e/ou vendedor, o agendamento de poltronas e pacotes de viagens;
+● Agilizar o processo de atendimento, tornando a experiência de marcar viagens mais fácil e prática;
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Com a desvalorização do real e a guerra na Europa, sair do país para passar férias deixou de ser uma realidade para grande parte da população brasileira. Portanto, é natural que o turismo internacional seja substituído pelo doméstico, aumentando a demanda por turismo no Brasil. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Essa expectativa se justifica, dada a conjuntura, o transporte rodoviário de longa distância terá um papel preponderante nessa recuperação. Com o aumento dos preços das passagens aéreas, muitas viagens anteriormente feitas por esse meio de transporte foram substituídas por carros particulares. No entanto, também temos preços recordes de combustível, ou seja, hoje o ônibus é a forma mais fácil de percorrer longas distâncias no país.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+¹ Busca por passagens rodoviárias tem crescimento de 116% em comparação com 2021. Disponível em: <https://diariodotransporte.com.br/2022/02/01/busca-por-passagens-rodoviarias-tem-crescimento-de-116-em-comparacao-com-2021/>. Acesso em: 9 sep. 2022.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Autônomos que desejam ter maior acessibilidade ao seu portfólio de vendas, que seja capaz de efetuar a venda dos pacotes de turismo reservando as passagens dos locais desejados pelos clientes, bem como também, reservando os assentos dos ônibus.
