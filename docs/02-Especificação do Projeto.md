@@ -16,7 +16,7 @@ Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se de
 | Idade: 69 anos <br>Ocupação: Guia turístico (autônomo)| Idade: 29 anos <br>Ocupação: Empreendedora no ramode salgados para festas       | Idade: 45 anos <br>Ocupação: Motorista |
 | Hobbies, História:<br><ul><li>Assistir novelas</li><li>Viajar para cidades históricas</li></ul> | Hobbies, História:<br><ul><li>Passear aos fins de semana com a família</li><li>Ler bons livros</li></ul>  | Hobbies, História:<br><ul><li>Viajar, ler bons livros, visitar cidades históricas</li><li>Cuidar do jardim de sua casa</li></ul> |
 | Motivações: <br><ul><li>Conseguir dar feedbacks mais rápidos e precisos a clientes</li><li>Manter um bom equilíbrio entre trabalho e vida pessoal</li><li>Fidelizar clientes com a qualidade do atendimento</li></ul> | Motivações: <br><ul><li>A satisfação de um serviço bem prestado focando na total satisfação do cliente</li><li>Uma rotina de trabalho equilibrada</li></ul>           | Motivações: <br><ul><li>Poder proporcionar uma melhor qualidade de vida para a família, melhores escolas e lazer para os filhos</li><li>Conseguir maior flexibilidade no trabalho</li></ul>   |
-| Frustrações: <br><ul><li>Não conseguir organizar bem a jornada de trabalho e serviços pendentes</li><li>Não ter um canal de comunicação mais eficiente com clientes</li><li>Não fidelizar a quantidade de clientes que considera possível</li></ul> | Frustrações: <br><ul><li>Ter que fazer longas pesquisas e em diversos canais de comunicação para encontrar o que preciso</li><li>Não ter uma “pessoa” que ateste a confiabilidade dos serviços que serão prestados</li></ul> | Frustrações: <br><ul><li>xxxxxxxxxxxxxxx</li><li>xxxxxxxxxxxxxxxxxx</li></ul>  |
+| Frustrações: <br><ul><li>Não conseguir organizar bem a jornada de trabalho e serviços pendentes</li><li>Não ter um canal de comunicação mais eficiente com clientes</li><li>Não fidelizar a quantidade de clientes que considera possível</li></ul> | Frustrações: <br><ul><li>Ter que fazer longas pesquisas e em diversos canais de comunicação para encontrar o que preciso</li><li>Não ter uma “pessoa” que ateste a confiabilidade dos serviços que serão prestados</li></ul> | Frustrações: <br><ul><li>Desencontro de informações passadas pelos prestadores de serviços</li><li>Dificuldade em pesquisar serviços pela internet (Google)</li></ul>  |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -36,15 +36,16 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
+|Guia turístico | Efetuar cadastro de uma conta na aplicação e manutenção principalmente em nas formas de pagamento que disponho | Ter acesso ao meu cadastro geral, não só para visualização mas também, se necessário, fazer manutenção de endereço residencial e opções de pagamento que registrei |
 |Guia turístico | Efetuar o cadastro, alteração e exclusão dos anúncios dos serviços que prestarei | Que a gestão dos anúncios sejam realizadas de forma centralizada e em um único sistema |
 |Guia turístico | Consultar tirar dúvidas dos clientes através de perguntas enviadas pelos clientes | Que seja centralizada as dúvidas no produto a ser adquirido pelo cliente para que informações não fiquem desencontradas |
 |Guia turístico | Possibilitar o cliente a efetuar a compra na própria plataforma | Diminuir as visitas aos domicílios dos clientes para efetuar cobranças referentes aos pacotes adquiridos |
 |Guia turístico | Cadastro de motoristas de ônibus para realizar as viagens disponibilizadas | Ter um local onde possa ser consultado e contratado um motorista para fazer o translados dos passageiros |
 |Guia turístico | Ter relatórios de conciliação dos valores pagos e pacotes vendidos | Ter uma forma mais amigável e confiável para verificar os valores recebidos, a receber e/ou devolvidos aos clientes |
 |Inês Silva (cliente) | Pesquisar na plataforma os destinos preteridos filtrando por locais (uf / cidade), prestadores de serviço, e data aproximada | Encontrar de forma simples e fácil, às informações sobre o destino informado e quais prestadores ofertam os pacotes |
-|Inês Silva (cliente) | Poder efetuar confirmação e pagamento do pacote pela plataforma | Facilidade para fechar os pedidos, de forma segura e confiável, efetuar os pagamentos com cartões referentes aos serviços contratados |
-|Inês Silva (cliente) | Receber informações sobre o pacote pesquisa, mesmo após os serviços serem contratados | Estar ciente de alterações nos pacotes como local de hospedagem, tipo de transporte disponibilizado e entre outros |
-|Inês Silva (cliente) | Visualizar histórico dos meus pedidos comprados | Conseguir visualizar informações sobre os pacotes contratados, pagamentos realizados e etc. |
+|Inês Silva (cliente) | Poder efetuar confirmação e pagamento do pacote pela plataforma | Facilidade para fechar os pedidos, de forma segura e confiável, efetuar os pagamentos com cartões referentes aos serviços contratados e até mesmo parcelamento via boletos e/ou PIX |
+|Ênio Gaspari (cliente) | Receber informações sobre o pacote pesquisa, mesmo após os serviços serem contratados | Estar ciente de alterações nos pacotes como local de hospedagem, tipo de transporte disponibilizado e entre outros |
+|Ênio Gaspari (cliente) | Visualizar histórico dos meus pedidos comprados | Conseguir visualizar informações sobre os pacotes contratados, pagamentos realizados e etc. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -93,18 +94,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### Requisitos funcionais
 | ID  | Descrição | Prioridade |
 | ------------- | ------------- | ------------- |
-| RF-01 | A aplicação deve apresentar os pacotes de viagens e seus respectivos destinos. | Alta |
-| RF-02 | A aplicação deve apresentar na página os serviços prestados sobre viagens e pacotes  | Baixa |
-| RF-03 | A aplicação deve efetuar cadastro ,alteração e exclusão de clientes| Alta |
-| RF-04 | A aplicação deve acompanhar o andamento do serviço solicitado pelo cliente. | Média |
-| RF-05 | A aplicação deve realizar a escolha dos assentos de lugares pelo respectivo cliente/usuário | Média |
-| RF-06 | A aplicação deve informar a disponibilidade das viagens . | alta |
-| RF-07 | A aplicação deve cadastrar as atividades referentes as viagens pesquisadas pelo usuário no aplicativo.| Baixa |
-| RF-08 | A aplicacação deve informar tempo de viagen e paradas programadas.| Baixa |
-| RF-09 | A aplicação deve sugerir buscar pela data mais barata. | Média |
-| RF-10 | A aplicação deve oferecer o usuário formas de pagamento via cartão e pix. | Alta |
-| RF-11 | A aplicação deve apresentar Sac para dúvidas e problemas para o usuário. | Média |
-| RF-12 | A aplicação deve notificar sobre prazos e horários de cada viagen. | Média |
+| RF-01 | A aplicação deve permitir cadastrar, editar e excluir pacotes de viagens | Alta |
+| RF-02 | A aplicação deve informar aos usuários todos os detalhes sobre o pacote ofertado | Alta |
+| RF-03 | A aplicação deve efetuar cadastro, alteração e exclusão de clientes | Alta |
+| RF-04 | A aplicação deve oferecer aos usuários formas de pagamento cartão, boleto e PIX, e com opção de parcelamento | Alta |
+| RF-05 | A aplicação deve permitir a escolha pelos usuário dos assentos nos ônibus | Média |
+| RF-06 | A aplicação deve permitir filtrar os pacotes cadastrados de acordo com o período e disponibilidade | Alta |
+| RF-07 | A aplicação deve cadastrar as atividades referentes as viagens pesquisadas pelo usuário no aplicativo | Baixa |
+| RF-08 | A aplicação deve oferecer aos usuários formas de pagamento cartão, boleto e PIX, e com opção de parcelamento | Alta |
+| RF-09 | A aplicação deve disponibilizar ao cliente todo o seu histórico de compras | Média |
+| RF-10 | A aplicação deve disponibilizar um canal de mediação de conflitos entre o prestador de serviço e cliente | Média |
+| RF-11 | A aplicação deve emitir notificações sobre horários de cada viagem | Média |
+| RF-12 | A aplicação deve disponibilizar relatórios de conciliação de viagens X faturamento | Média |
 
 ### Requisitos não-funcionais
 
