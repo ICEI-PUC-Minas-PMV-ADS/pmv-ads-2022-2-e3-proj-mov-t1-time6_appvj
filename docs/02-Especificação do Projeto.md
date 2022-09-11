@@ -115,6 +115,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-02 | O sistema deve ser responsivo para rodar em um dispositivo móvel  | Alta |
 | RNF-03 | O sistema deve processar requisições do usuário em no máximo 3s | Baixa |
 | RNF-04 | Opção de marcar os tópicos de atividades que foram concluídos com checkbox. | Média |
+| RNF-05 | O sistema deve Executar nas plataformas ios e android. | Alta |
+| RNF-06 | O sistema deve emitir relatório por usuário. | Média | 
+| RNF-07 | O sistema deve permitir informações cadadatrais offline. |Alta| 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
