@@ -23,7 +23,7 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 
 |Caso de Teste|CT-03 Sobre Nós|
 |-------------|--------------------|
-|Requisitos associados|RF-02 A aplicação deve apresentar um menu simples, intendível e interativo. <br> RF-05 O aplicativo deve permitir visualizar as informações de ccompra de viagens.|
+|Requisitos associados|RF-02 A aplicação deve apresentar um menu simples, intendível e interativo. <br> RF-05 O aplicativo deve permitir visualizar as informações de compra de viagens.|
 |Objetivo do teste|Verificar se a tela "Sobre Nós" está iniciando corretamente.|
 |Passos|1) Acessar a aplicação. <br> 2) Abrir a tela inicial. <br> 3) Visualizar a página Sobre Nós.|
 |Critérios de êxito|- A tela principal deve aparecer de forma configurada.|
