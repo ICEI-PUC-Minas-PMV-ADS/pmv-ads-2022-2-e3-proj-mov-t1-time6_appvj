@@ -10,7 +10,7 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 |Caso de Teste|CT-01 Página inicial|
 |-------------|--------------------|
 |Requisitos associados|RF-01 A Aplicação deve apresentar na página principal a descrição do serviço e como ele pode ajudar o usuário; <br> RF-02 A aplicação deve apresentar um menu simples, intendível e interativo.|
-|Objetivo do teste|Verificar se a tela inicial está acontecendo corretamente.|
+|Objetivo do teste|Verificar se a tela inicial está iniciando corretamente.|
 |Passos|1) Acessar o Aplicativo. <br> 2) Logar no aplicativo. <br> 3) Visualizar a tela principal de login.|
 |Critérios de êxito|- A tela deve aparecer de forma configurada. <br> - O texto da tela inicial deve aparecercom entrada de login. 
 
