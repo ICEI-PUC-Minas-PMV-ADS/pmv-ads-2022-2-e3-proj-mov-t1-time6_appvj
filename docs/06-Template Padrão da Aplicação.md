@@ -10,13 +10,23 @@ Usando as logo como referência visual da marca do negócio:
 
 ![Logo](img/logo.jpg)
 
+## Esquema de cores
+
+O esquema de cores escolhido partirá de uma variação monocromática do verde musgo, como demonstrado na imagem abaixo, podendo ter uma pequena variação no tom das cores durante o desenvolvimento e escolha da equipe de UX/UI
+
+![Cores](img/esquema_de_cores.PNG)
+
+
+![Tela Inicial](img/tela_inicial.PNG)
+
+
 ## Tela principal
 
 Ao entrar no aplicativo o usuário(a,e) poderá fazer o login, clicar em saiba mais e cadastrar-se.
 
 ![Tela Inicial](img/tela_inicial.PNG)
 
-Esquema relacional de cores: 
+
 
 
 > **Links Úteis**:
