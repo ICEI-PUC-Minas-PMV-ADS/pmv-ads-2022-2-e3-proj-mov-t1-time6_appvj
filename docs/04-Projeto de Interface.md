@@ -34,4 +34,8 @@ Essa tela permite que o usuário insira seu nome ,e-mail,senha ,cpf e telefone, 
 
 ![image](https://user-images.githubusercontent.com/92118593/194762129-a4e06827-0e91-423d-85cc-a06149ca775f.png)
 
+### Tela de Usuário
 
+Nesta tela será mostrado o nome do usuário dentro do botão onde contêm todas as informações do usuário, logo abaixo terá uma frase de interação com a frase"olá + o nome do usuário cadastrado no aplicativo.
+
+![image](https://user-images.githubusercontent.com/92118593/194762728-cc7f58db-eee0-4da4-89ea-c9e84c4fb409.png)
