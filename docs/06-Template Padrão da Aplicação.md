@@ -18,9 +18,6 @@ O esquema de cores escolhido partirá de uma variação monocromática do verde 
 ![Cores](img/cores.PNG)
 
 
-![Tela Inicial](img/tela_inicial.PNG)
-
-
 
 ## Tela principal
 
