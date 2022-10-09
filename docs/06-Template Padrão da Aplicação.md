@@ -10,7 +10,9 @@ Usando as logo como referência visual da marca do negócio:
 
 ![Logo](img/logo.jpg)
 
-Representação da estrutura padrão da aplicação a partir da tela inicial: 
+## Tela principal
+
+Ao entrar no aplicativo o usuário(a,e) poderá fazer o login, clicar em saiba mais e cadastrar-se.
 
 ![Tela Inicial](img/tela_inicial.PNG)
 
