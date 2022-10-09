@@ -17,7 +17,7 @@ O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuári
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.
 
 Tela - Home
-A tela Home se inicia interagindo com o usuário, representando a logo (parte da identidade visual do projeto) e um setor de busca onde o usuário poderá digitar o país, o qual busca informações e será direcionado para a página solicitada.
+A tela Home se inicia interagindo com o usuário, representando a logo (parte da identidade visual do projeto) o usuário irá visualizar a guia “Sobre Nós”, onde poderá ler um pouco sobre a nossa história e sobre o projeto. Conforme a imagem abaixo:
 
 ![image](https://user-images.githubusercontent.com/92118593/194761086-82f606a7-4280-47b6-aec5-cf3236c1675c.png)
 
