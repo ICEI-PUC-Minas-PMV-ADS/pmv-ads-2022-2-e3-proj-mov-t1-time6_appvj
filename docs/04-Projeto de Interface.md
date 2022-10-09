@@ -39,3 +39,10 @@ Essa tela permite que o usuário insira seu nome ,e-mail,senha ,cpf e telefone, 
 Nesta tela será mostrado o nome do usuário dentro do botão onde contêm todas as informações do usuário, logo abaixo terá uma frase de interação com a frase"olá + o nome do usuário cadastrado no aplicativo. No campo "pesquisar passagem" o usuário poderá pesquisar as passagens que lhe atenda melhor,escolhendo o dia,hora,mês e se possível for, a escolha do assento de sua preferência
 
 ![image](https://user-images.githubusercontent.com/92118593/194762728-cc7f58db-eee0-4da4-89ea-c9e84c4fb409.png)
+
+### Tela de Escolha de Passagens
+
+Nesta tela o usuário já está ciente do que ele quer,a compra da passagem,o dia escolhido,a hora preferida e se possível for, o assento de sua preferência. Assim que escolher a passagem ele será direcionado para duas opções: "comprar agora" ou "colocar no carrinho" e finalizar a compra posteriormente.
+
+![image](https://user-images.githubusercontent.com/92118593/194763308-88745f98-8412-4ca0-89a2-93d626b4163d.png)
+
