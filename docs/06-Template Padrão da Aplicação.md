@@ -14,6 +14,8 @@ Representação da estrutura padrão da aplicação a partir da tela inicial:
 
 ![Tela Inicial](img/tela_inicial.PNG)
 
+Esquema relacional de cores: 
+
 
 > **Links Úteis**:
 >
