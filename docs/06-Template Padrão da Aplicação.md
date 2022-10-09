@@ -8,7 +8,7 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 Usando as logo como referência visual da marca do negócio: 
 
-![Logo](img/tourTicket.png.png)
+![Logo](img/logo.jpg)
 
 Representação da estrutura padrão da aplicação a partir da tela inicial: 
 
