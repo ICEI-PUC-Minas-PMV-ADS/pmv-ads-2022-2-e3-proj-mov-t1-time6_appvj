@@ -11,11 +11,17 @@ O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuári
 
 ![Untitled (13)](https://user-images.githubusercontent.com/92118593/194760380-72742968-b624-4f60-970e-88a60b2a9fce.png)
 
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
 ## Wireframes
-![Untitled (13)](https://user-images.githubusercontent.com/92118593/194760380-72742968-b624-4f60-970e-88a60b2a9fce.png)
+
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.
+
+Tela - Home
+A tela Home se inicia interagindo com o usuário, representando a logo (parte da identidade visual do projeto) e um setor de busca onde o usuário poderá digitar o país, o qual busca informações e será direcionado para a página solicitada.
+
+![image](https://user-images.githubusercontent.com/92118593/194761086-82f606a7-4280-47b6-aec5-cf3236c1675c.png)
+
+
 
 
 > **Links Úteis**:
