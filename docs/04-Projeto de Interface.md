@@ -22,14 +22,9 @@ A tela Home se inicia interagindo com o usuário, representando a logo (parte da
 
 ![image](https://user-images.githubusercontent.com/92118593/194761086-82f606a7-4280-47b6-aec5-cf3236c1675c.png)
 
+### Tela Sobre Nós
 
+A tela Sobre Nós ,além do usuário saber um pouco da nossa história e sobre o projeo,direcionará ao final da tela para botão de cadastre-se,onde realizará seu cadastro.
 
+![image](https://user-images.githubusercontent.com/92118593/194761885-14327105-7902-4844-aa68-69576900f432.png)
 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
