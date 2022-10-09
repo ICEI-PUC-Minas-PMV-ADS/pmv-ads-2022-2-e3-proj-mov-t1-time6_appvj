@@ -30,4 +30,8 @@ A tela ''Sobre Nós'' ,além do usuário saber um pouco da nossa história e sob
 
 ### Tela de Cadastro
 
-Essa tela permite que o usuário insira seu nome ,e-mail,telefone, o que facilitará o retorno de informações pela equipe.
+Essa tela permite que o usuário insira seu nome ,e-mail,senha ,cpf e telefone, o que facilitará o retorno de informações pela equipe. No ínicio têm uma mensagem para o usuário passando segurança e tranquilidade.
+
+![image](https://user-images.githubusercontent.com/92118593/194762129-a4e06827-0e91-423d-85cc-a06149ca775f.png)
+
+
