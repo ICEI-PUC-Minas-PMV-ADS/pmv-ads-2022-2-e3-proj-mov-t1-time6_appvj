@@ -1,11 +1,12 @@
-# TourTickets
+# TourTickets 🚌
 Análise e desenvolvimento De Sistemas
 
 Desenvolvimento de Aplicação Móvel Em Um Ambiente De Negócio
 
 Terceiro
 
-Aplicação para suporte a vendas de passagens de pacotes de turismo terrestres. Que Seje capaz de efetuar a venda pelo aplicativo, reservando as passagens dos locais desejados pelos clientes,bem como também,reservando os acentos dos ônibus.
+Aplicação para suporte a vendas de passagens de pacotes de turismo terrestres. Que seja capaz de efetuar a venda pelo aplicativo, reservando as passagens dos locais desejados pelos clientes, bem como também, reservando os acentos dos ônibus.
+
 ## Integrantes
 
 Fernanda Macieira
