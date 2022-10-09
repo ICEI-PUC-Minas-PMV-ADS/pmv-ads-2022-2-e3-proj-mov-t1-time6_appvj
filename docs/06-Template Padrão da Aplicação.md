@@ -29,7 +29,7 @@ Ao entrar no aplicativo o usuário(a,e) poderá fazer o login, clicar em saiba m
 
 A tela inicial pode ser acessada pelo QR code através do aplicativo EXPO GO
 
-![Tela Inicial](img/img/acesso.PNG)
+![Tela Inicial](img/acesso.PNG)
 
 
 
