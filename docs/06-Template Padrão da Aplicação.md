@@ -6,6 +6,9 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 ![Template Padrão do Site](img/estrutura.PNG)
 
+Usando as logo como referência visual da marca do negócio. 
+
+![Logo](img/tourTicket.png.png)
 
 
 > **Links Úteis**:
