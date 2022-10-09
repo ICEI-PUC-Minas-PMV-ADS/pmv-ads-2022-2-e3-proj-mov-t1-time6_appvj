@@ -25,7 +25,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER�
 
 ## Esquema Relacional
 
-<img src="img/drTourTicket.jpg" with="500px;">
+<img src="img/drTourTicket.jpg">
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
@@ -35,7 +35,9 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ## Modelo Físico
 
-Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
+Arquivo de script do banco de dados do aplicativa TourTicket.
+
+<img src="img/imgScriptBancoTourTicket.jpg">
 
 ## Tecnologias Utilizadas
 
