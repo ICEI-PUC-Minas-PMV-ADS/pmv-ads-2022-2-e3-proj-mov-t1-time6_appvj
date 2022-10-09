@@ -4,7 +4,7 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-![Template Padrão do Site](docs/img/estrutura.PNG)
+![Template Padrão do Site](img/estrutura.PNG)
 
 
 
