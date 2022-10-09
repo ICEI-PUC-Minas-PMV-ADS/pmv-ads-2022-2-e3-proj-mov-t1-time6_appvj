@@ -48,7 +48,7 @@ Nesta tela o usuário já está ciente do que ele quer,a compra da passagem,o di
 
 ### Tela de Finalização de Compra
 
-Nesta tela,o usuário receberá a mensagem de confirmação de "compra realizada com sucesso" e ainda receberá um e-mail de notificação da compra realizada,esse e-mail é proveniente do cadastro que ele realizou junto com o aplicativo. 
+Ao final da página,o usuário receberá a mensagem de confirmação de "compra realizada com sucesso" e ainda receberá um e-mail de notificação da compra realizada,esse e-mail é proveniente do cadastro que ele realizou junto com o aplicativo. 
 
 ![image](https://user-images.githubusercontent.com/92118593/194763651-89c1ec37-a784-493e-ad85-b28779e1e634.png)
 
