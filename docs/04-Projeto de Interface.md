@@ -24,7 +24,10 @@ A tela Home se inicia interagindo com o usuário, representando a logo (parte da
 
 ### Tela Sobre Nós
 
-A tela Sobre Nós ,além do usuário saber um pouco da nossa história e sobre o projeo,direcionará ao final da tela para botão de cadastre-se,onde realizará seu cadastro.
+A tela ''Sobre Nós'' ,além do usuário saber um pouco da nossa história e sobre o projeto,direcionará ao final da tela para botão de ''cadastre-se'',onde realizará seu cadastro.
 
 ![image](https://user-images.githubusercontent.com/92118593/194761885-14327105-7902-4844-aa68-69576900f432.png)
 
+### Tela de Cadastro
+
+Essa tela permite que o usuário insira seu nome ,e-mail,telefone, o que facilitará o retorno de informações pela equipe.
