@@ -15,7 +15,7 @@ Usando as logo como referência visual da marca do negócio:
 
 O esquema de cores escolhido partirá de uma variação monocromática do verde musgo, como demonstrado na imagem abaixo, podendo ter uma pequena variação no tom das cores durante o desenvolvimento e escolha da equipe de UX/UI
 
-![Cores](img/esquema_de_cores.PNG)
+![Cores](img/cores.PNG)
 
 
 ![Tela Inicial](img/tela_inicial.PNG)
