@@ -60,6 +60,20 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 ## Qualidade de Software
 
+| Subcaracterística de qualidade | Definição |
+| ------------- | ------------- |
+| Conformidade |  |
+| Segurança de acesso |  |
+| Maturidade |  |
+| Recuperabilidade |  |
+| Inteligibilidade |  |
+| Comportamento em relação ao tempo |  |
+| Capacidade para ser instalado |  |
+| Conformidade |  |
+| Modificabilidade |  |
+| Estabilidade |  |
+| Testabilidade |  |
+
 Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
 
 No contexto de desenvolvimento de software, qualidade pode ser entendida como um conjunto de características a serem satisfeitas, de modo que o produto de software atenda às necessidades de seus usuários. Entretanto, tal nível de satisfação nem sempre é alcançado de forma espontânea, devendo ser continuamente construído. Assim, a qualidade do produto depende fortemente do seu respectivo processo de desenvolvimento.
