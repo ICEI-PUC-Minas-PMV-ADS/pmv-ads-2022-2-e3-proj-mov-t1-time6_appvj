@@ -7,10 +7,9 @@ Dentre as preocupações para a montagem da interface do sistema, estamos estabe
 
 ## Fluxo Do Usuário
 
-O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para uma visualização completa, acesse o link do projeto no Figma
+O diagrama apresentado na figura abaixo mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para uma visualização completa, acesse o link do projeto no Figma:https://www.figma.com/file/Wv6BFG40owcPMcQhdgk3FD/Untitled?node-id=105%3A0
 
-![Untitled (13)](https://user-images.githubusercontent.com/92118593/194760380-72742968-b624-4f60-970e-88a60b2a9fce.png)
-
+![image](https://user-images.githubusercontent.com/92118593/194786419-ee5a82ad-eeca-4514-afd9-186b8c6cf77b.png)
 
 ## Wireframes
 
