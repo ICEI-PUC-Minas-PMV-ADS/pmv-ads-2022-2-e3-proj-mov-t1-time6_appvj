@@ -106,6 +106,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-10 | A aplicação deve disponibilizar um canal de mediação de conflitos entre o prestador de serviço e cliente | Média |
 | RF-11 | A aplicação deve emitir notificações sobre horários de cada viagem | Média |
 | RF-12 | A aplicação deve disponibilizar relatórios de conciliação de viagens X faturamento | Média |
+| RF-13 | A aplicação deve permitir que o usuário faça login e acesse um campo para recuperar a senha e cadastro | Alta |
 
 ### Requisitos não-funcionais
 
