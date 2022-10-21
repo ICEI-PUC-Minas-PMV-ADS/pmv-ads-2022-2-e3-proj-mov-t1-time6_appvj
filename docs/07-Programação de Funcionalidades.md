@@ -14,7 +14,7 @@ A tela até a segunda etapa do projeto estava apenas com as definições do camp
 
 Imagem da primeira tela: 
 
-![Tela Inicial](img/acesso.PNG)
+![Tela Inicial](img/tela_inicial.PNG)
 
 > **Links Úteis**:
 >
