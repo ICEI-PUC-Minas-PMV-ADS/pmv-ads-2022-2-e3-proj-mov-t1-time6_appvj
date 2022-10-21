@@ -1,3 +1,9 @@
+# Diagrama de Fluxo BPMN
+
+O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema interativo e muitas vezes sem a necessidade do desenho do design das telas da interface. Isso permite que o design das interações seja bem planejado e gere impacto na qualidade dos wireframes.
+
+![image](https://user-images.githubusercontent.com/92118593/197089870-899211d7-cb14-4e8b-aed2-87b5bf89be15.png)
+
 
 # Projeto de Interface
 
@@ -51,3 +57,5 @@ Nesta tela o usuário já está ciente do que ele quer,a compra de pacotes,o dia
 Ao final da página,o usuário receberá a mensagem de confirmação de "compra realizada com sucesso" e ainda receberá um e-mail de notificação da compra realizada,esse e-mail é proveniente do cadastro que ele realizou junto com o aplicativo. 
 
 ![iPhone 14 - 12](https://user-images.githubusercontent.com/92118593/194785690-066363f7-372f-4f56-8273-1af512a7873e.png)
+
+
