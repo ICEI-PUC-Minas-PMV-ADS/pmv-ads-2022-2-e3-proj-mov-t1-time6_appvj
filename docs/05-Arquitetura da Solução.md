@@ -60,19 +60,40 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 ## Qualidade de Software
 
-| Subcaracterística de qualidade | Definição |
-| ------------- | ------------- |
-| Conformidade |  |
-| Segurança de acesso |  |
-| Maturidade |  |
-| Recuperabilidade |  |
-| Inteligibilidade |  |
-| Comportamento em relação ao tempo |  |
-| Capacidade para ser instalado |  |
-| Conformidade |  |
-| Modificabilidade |  |
-| Estabilidade |  |
-| Testabilidade |  |
+| FUNCIONALIDADE | Especialista em informática | Usuário/cliente | Usuário/Vendedor |
+|----------------|-----------------------------|-----------------|------------------|
+| Adequação | | | |
+| Acurária | | | |
+| Segurança de acesso | | | |
+ 
+| CONFIABILIDADE | Especialista em informática | Usuário/cliente | Usuário/Vendedor |
+|----------------|-----------------------------|-----------------|------------------|
+| Maturidade | | | |
+| Tolerância a falhas | | | |
+| Segurança de acesso | | | |
+ 
+| USABILIDADE | Especialista em informática | Usuário/cliente | Usuário/Vendedor |
+|-------------|-----------------------------|-----------------|------------------|
+| Apreensibilidade | | | |
+| Operacionalidade | | | |
+| Atratividade | | | |
+ 
+| EFICIENCIA | Especialista em informática | Usuário/cliente | Usuário/Vendedor |
+|------------|-----------------------------|-----------------|------------------|
+| Comportamento em relação ao tempo | | | |
+| Comportamento em relação aos recursos | | | |
+ 
+| MANUTENBILIDADE | Especialista em informática | Usuário/cliente | Usuário/Vendedor |
+|-----------------|-----------------------------|-----------------|------------------|
+| Analisabilidade | | | |
+| Modificabilidade | | | |
+| Testabilidade | | | |
+ 
+| PORTABILIDADE | Especialista em informática | Usuário/cliente | Usuário/Vendedor |
+|---------------|-----------------------------|-----------------|------------------|
+| Adaptabilidade | | | |
+| Capacidade para ser instalado | | | |
+| Capacidade para ser substituído | | | |
 
 Conceituar qualidade de fato é uma tarefa complexa, mas ela pode ser vista como um método gerencial que através de procedimentos disseminados por toda a organização, busca garantir um produto final que satisfaça às expectativas dos stakeholders.
 
