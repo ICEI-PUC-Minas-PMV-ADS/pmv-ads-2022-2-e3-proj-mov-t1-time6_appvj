@@ -60,6 +60,13 @@ Explique como a hospedagem e o lançamento da plataforma foi feita.
 
 ## Qualidade de Software
 
+| Nota          | Classificação               | Classificação Geral  |
+|---------------|-----------------------------|----------------------|
+| 80 - 100      | Excelente                   | Satisfatório         |
+| 60 - 79       | Bom                         | Satisfatório         |
+| 40 - 59       | Regular                     | Satisfatório         |
+| 0  - 39       | Ruim/inexistente            | Insatisfatório       |
+
 | FUNCIONALIDADE | Especialista em informática | Usuário/cliente | Usuário/Vendedor |
 |----------------|-----------------------------|-----------------|------------------|
 | Adequação | | | |
