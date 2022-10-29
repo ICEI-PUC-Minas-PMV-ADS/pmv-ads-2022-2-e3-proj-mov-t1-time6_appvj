@@ -1,4 +1,5 @@
 import React from 'react';
+
 import {
   Text,
   StyleSheet,
@@ -6,7 +7,9 @@ import {
   Image,
   TextInput,
   TouchableOpacity,
-} from 'react-native';
+} 
+
+from 'react-native';
 
 export default function App() {
   return (
@@ -16,28 +19,43 @@ export default function App() {
         source={require('./assets/tourTicket.png.png')}
       />
 
+     
+     
       <TextInput
         style={styles.input}
-        placeholder="Email"
+        placeholder="CPF "
+        autoCorrect={false}
+        onChangeText={() => {}}
+      />
+
+       <TextInput
+        style={styles.input}
+        placeholder="Nome "
+        autoCorrect={false}
+        onChangeText={() => {}}
+
+         
+
+      />
+ <TextInput
+        style={styles.input}
+        placeholder="Endereço "
         autoCorrect={false}
         onChangeText={() => {}}
       />
 
       <TextInput
         style={styles.input}
-        placeholder="Senha"
+        placeholder="Telefone"
         autoCorrect={false}
         onChangeText={() => {}}
       />
 
       <TouchableOpacity style={styles.btnSubmit}>
-        <Text> Acessar </Text>
+        <Text style={styles.text}> Cadastre-se </Text>
       </TouchableOpacity>
 
-      <TouchableOpacity style={styles.registerText}>
-        <Text> Criar conta gratuita </Text>
-      </TouchableOpacity>
-    </View>
+      </View>
   );
 }
 
@@ -50,38 +68,50 @@ const styles = StyleSheet.create({
   },
 
   imagem: {
-    width: 150,
-    height: 150,
+    width: 160,
+    height: 160,
     justifyContent: 'center',
   },
 
   input: {
-    flex: 0.0,
+    flex: 0.1,
     alignContent: 'center',
     justifyContent: 'space-between',
-    width: '90%',
+    width: '70%',
+    opacity : 0.9,
     backgroundColor: '#488F51',
-    color: 'white',
+    color: 'white',    
     marginBottom: 15,
-    fontSize: 17,
+    fontSize: 18,
     borderRadius: 8,
-    padding: 10,
+    padding: 15,
+    placeholder: 'white',
   },
+
+  
 
   btnSubmit: {
     width: '90%',
     backgroundColor: '#488F51',
+    opacity : 0.9,
     color: 'white',    
-    height: 45,
+    height: 70,
     alignItems: 'center',
     justifyContent: 'center',
-    marginBottom: 15,
+    marginBottom: 18,
     borderRadius: 8,
     fontSize: 20,
+    
   },
 
   registerText: {
-    color: '#63C771',
-    fontSize: 20,
+    color: '#63C771',        
   },
+
+  text:{
+    color: 'white',
+    fontSize: 20, 
+    opacity : 0.9,
+  }
+
 });
