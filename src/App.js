@@ -7,9 +7,9 @@ import {
   Image,
   TextInput,
   TouchableOpacity,
+  
 } 
-
-from 'react-native';
+ from 'react-native';
 
 export default function App() {
   return (
@@ -18,7 +18,9 @@ export default function App() {
         style={styles.imagem}
         source={require('./assets/tourTicket.png.png')}
       />
+      
 
+      
      
      
       <TextInput
@@ -39,7 +41,7 @@ export default function App() {
       />
  <TextInput
         style={styles.input}
-        placeholder="Endereço "
+        placeholder="Senha "
         autoCorrect={false}
         onChangeText={() => {}}
       />
@@ -47,6 +49,13 @@ export default function App() {
       <TextInput
         style={styles.input}
         placeholder="Telefone"
+        autoCorrect={false}
+        onChangeText={() => {}}
+      />
+
+      <TextInput
+        style={styles.input}
+        placeholder="Endereço"
         autoCorrect={false}
         onChangeText={() => {}}
       />
@@ -61,15 +70,15 @@ export default function App() {
 
 const styles = StyleSheet.create({
   background: {
-    flex: 1,
+    flex: 5,
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: '#fff',
   },
 
   imagem: {
-    width: 160,
-    height: 160,
+    width: 280,
+    height: 280,
     justifyContent: 'center',
   },
 
@@ -77,25 +86,25 @@ const styles = StyleSheet.create({
     flex: 0.1,
     alignContent: 'center',
     justifyContent: 'space-between',
-    width: '70%',
+    width: '80%',
     opacity : 0.9,
-    backgroundColor: '#488F51',
-    color: 'white',    
-    marginBottom: 15,
+    backgroundColor: '#9DC2A1',
+    color: 'black',    
+    marginBottom: 29,
     fontSize: 18,
-    borderRadius: 8,
-    padding: 15,
+    borderRadius: 9,
+    padding: 5,
     placeholder: 'white',
   },
 
   
 
   btnSubmit: {
-    width: '90%',
+    width: '80%',
     backgroundColor: '#488F51',
     opacity : 0.9,
     color: 'white',    
-    height: 70,
+    height: 40,
     alignItems: 'center',
     justifyContent: 'center',
     marginBottom: 18,
@@ -109,7 +118,7 @@ const styles = StyleSheet.create({
   },
 
   text:{
-    color: 'white',
+    color: 'black',
     fontSize: 20, 
     opacity : 0.9,
   }
