@@ -12,7 +12,7 @@ A tela até a segunda etapa do projeto estava apenas com as definições do camp
 
 Imagem da primeira tela: 
 
-![Tela Inicial](img/tela_inicial.PNG)
+![Tela Inicial](img/tela_inicial.JPG)
 
 # Evolução do projeto
 
