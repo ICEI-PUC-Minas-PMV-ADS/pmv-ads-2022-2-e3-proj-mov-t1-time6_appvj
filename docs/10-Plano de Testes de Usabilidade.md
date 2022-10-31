@@ -10,7 +10,7 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 |:---:	|:---:	|
 | **Perfil** 	| Usuário (todos)	|
 | **Objetivo do Teste** 	| Avaliar a tela de cadastro de novo usuário 	|
-| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Clicar na opção “Registre-se”;<br>4. Selecionar o tipo perfil (Proprietário ou mecânico) a ser criado;<br> 5. Preencher os campos necessários do formulário;<br>6. Navegar pelo fluxo de cadastro seguindo os passos orientados na tela e clicar em “Registrar". 	|
+| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Clicar na opção “Registre-se”;<br> 4. Preencher os campos necessários do formulário;<br>5. Navegar pelo fluxo de cadastro seguindo os passos orientados na tela e clicar em “Cadastrar". 	|
 |  	|  	|
 | **Caso de Teste** 	| **CTU-02 – Login de usuário** 	|
 | **Perfil** 	| Usuário (todos) 	|
@@ -18,10 +18,16 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 | **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Visualizar a página de login;<br>4. Preencher e-mail no campo indicado;<br>5. Preencher senha no campo indicado;<br>6. Clicar em ‘Login’. 	|
 |  	|  	|
 |  	|  	|
-| **Caso de Teste** 	| **CTU-04 – Cadastrar viagens** 	|
+| **Caso de Teste** 	| **CTU-03 – Cadastrar viagens** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função de cadastrar viagens 	|
 | **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Realizar o login;<br>4. Clicar na opção "Sou agente de viagens";<br5. Abrir o campo de “Cadastrar viagem”;<br>6. Realizar os cadastros desejados clicando, deletando e adicionando a nova informação;<br>7. Clicar em Cadastrar Viagem 	|
+|  	|  	|
+
+| **Caso de Teste** 	| **CTU-04 – Anúncios de viagens** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a função de Anúncios de viagens |
+| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Realizar o login;<br>4. Abrir o campo de “Anúncios de viagem”;<br>5. Realizar os cadastros desejados clicando, deletando e adicionando a nova informação;<br>7. Clicar em Cadastrar Viagem 	|
 |  	|  	|
 
 
