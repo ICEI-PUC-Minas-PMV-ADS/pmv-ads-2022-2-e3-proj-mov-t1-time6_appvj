@@ -24,3 +24,13 @@ Foi responsável por implementar, na etapa 3, a tela de cadatro de viagens.
 > 
 > ![image](https://user-images.githubusercontent.com/90113699/198908558-2fe3f436-abf4-4ab4-a4ba-876ab3562f68.png)
 
+
+## Tela vitrine de anúncios
+
+Após o login do usário, os anúncios de pacotes de viagens serão exibidos listados na tela de vitrine de produtos. Esta tela foi desenvolvida para atender o requisito RF-06. A tela apresentada abaixo está sendo desenvolvida com as seguintes funcionalidades
+
+> - Lista de anúncios dos pacotes de viagens com apresentação de image, título, data da viagem e valor do pacote;
+> - Pesquisa por anúncios publicados ou percorrer a tela do app visualizar a lista de anúncios listados;
+> - Acesso ao menu, onde poderá acessar os dados do usuário, detalhes de suas compras e entre outros.
+
+![Tela vitrine de anúncios](img/Vitrine-de-anuncios.png)
