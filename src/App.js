@@ -1,87 +1,92 @@
 import React from 'react';
-import {
-  Text,
-  StyleSheet,
-  View,
-  Image,
-  TextInput,
-  TouchableOpacity,
-} from 'react-native';
+import { Appbar } from 'react-native-paper';
+import { Text, StyleSheet, View, Image, TextInput, TouchableOpacity, SafeAreaView, SectionList, StatusBar} from 'react-native';
+
+const DATA = [
+  {
+    data: ["Poços de Caldas", "Aparecida do Norte", "Beto Carrero Word"],
+  },
+];
+
+const Item = ({ title }) => (
+  <View style={styles.item}>
+    <Image
+        style={styles.imagem}
+        source={require('./image/Turismo-Pocos-de-Caldas.jpg')}
+    />
+    <Text 
+      style={styles.title}>{title}
+    </Text>
+  </View>
+);
+
 
 export default function App() {
+
+  const _goBack = () => console.log('Voltar tela anterior');
+
+  const _handleSearch = () => console.log('Buscando');
+
+  const _handleMore = () => console.log('Mostre mais');
+
   return (
     <View style={styles.background}>
-      <Image
-        style={styles.imagem}
-        source={require('./assets/tourTicket.png.png')}
-      />
-
-      <TextInput
-        style={styles.input}
-        placeholder="Email"
-        autoCorrect={false}
-        onChangeText={() => {}}
-      />
-
-      <TextInput
-        style={styles.input}
-        placeholder="Senha"
-        autoCorrect={false}
-        onChangeText={() => {}}
-      />
-
-      <TouchableOpacity style={styles.btnSubmit}>
-        <Text> Acessar </Text>
-      </TouchableOpacity>
-
-      <TouchableOpacity style={styles.registerText}>
-        <Text> Criar conta gratuita </Text>
-      </TouchableOpacity>
+      <Appbar.Header style={styles.barra_superior}>
+        <Appbar.BackAction onPress={_goBack} />
+        <Appbar.Content title="TourTicket" />
+        <Appbar.Action icon="magnify" onPress={_handleSearch} />
+        <Appbar.Action icon="dots-vertical" onPress={_handleMore} />
+      </Appbar.Header>
+      
+      <SafeAreaView style={styles.container}>
+        <SectionList
+          sections={DATA}
+          keyExtractor={(item, index) => item + index}
+          renderItem={({ item }) => <Item title={item} />}
+          renderSectionHeader={({ section: { title } }) => (
+            <Text style={styles.header}>{title}</Text>
+          )}
+        />
+      </SafeAreaView>
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-  background: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: '#fff',
+  barra_superior: {
+    backgroundColor: '#488F51',
   },
 
   imagem: {
-    width: 150,
+    borderRadius: 5,
+    width: 250,
     height: 150,
+    marginBottom: 15,
+    textAlign: 'center',
     justifyContent: 'center',
   },
 
-  input: {
-    flex: 0.0,
-    alignContent: 'center',
-    justifyContent: 'space-between',
-    width: '90%',
-    backgroundColor: '#488F51',
-    color: 'white',
-    marginBottom: 15,
-    fontSize: 17,
-    borderRadius: 8,
-    padding: 10,
+  container: {
+    flex: 1,
+    paddingTop: StatusBar.currentHeight,
+    marginHorizontal: 16
   },
 
-  btnSubmit: {
-    width: '90%',
-    backgroundColor: '#488F51',
-    color: 'white',    
-    height: 45,
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginBottom: 15,
-    borderRadius: 8,
-    fontSize: 20,
+  item: {
+    borderRadius: 5,
+    backgroundColor: "#f2f2f2",
+    padding: 20,
+    marginVertical: 8,
+    alignItems: 'center'
   },
 
-  registerText: {
-    color: '#63C771',
-    fontSize: 20,
+  header: {
+    fontSize: 32,
+    backgroundColor: "#fff"
   },
+  
+  title: {
+    fontSize: 24
+  }
+
 });
