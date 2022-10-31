@@ -26,10 +26,9 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 
 | **Caso de Teste** 	| **CTU-04 – Anúncios de viagens** 	|
 | **Perfil** 	| Usuário 	|
-| **Objetivo do Teste** 	| Avaliar a função de Anúncios de viagens |
-| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Realizar o login;<br>4. Abrir o campo de “Anúncios de viagem”;<br>5. Realizar os cadastros desejados clicando, deletando e adicionando a nova informação;<br>7. Clicar em Cadastrar Viagem 	|
+| **Objetivo do Teste** 	| Avaliar a função de Anúncios de viagens 	|
+| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Realizar o login;<br>4. Clicar na opção "Busco por novas viagens";<br>5. Abrir o campo de “Viagens”;<br>6. Realizar os cadastros desejados clicando, deletando e adicionando a nova informação;<br>7. Clicar em Cadastrar Viagem 	|
 |  	|  	|
-
 
 ## Análise do teste e resultados
 
