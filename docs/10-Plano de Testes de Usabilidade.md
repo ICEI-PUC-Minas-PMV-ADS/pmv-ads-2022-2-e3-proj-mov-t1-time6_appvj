@@ -21,9 +21,8 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 | **Caso de Teste** 	| **CTU-03 – Cadastrar viagens** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função de cadastrar viagens 	|
-| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Realizar o login;<br>4. Clicar na opção "Sou agente de viagens";<br5. Abrir o campo de “Cadastrar viagem”;<br>6. Realizar os cadastros desejados clicando, deletando e adicionando a nova informação;<br>7. Clicar em Cadastrar Viagem 	|
+| **Ações necessárias** 	| 1. Baixar o aplicativo;<br>2. Entrar no aplicativo;<br>3. Realizar o login;<br>4. Clicar na opção "Sou agente de viagens";<br>5. Abrir o campo de “Cadastrar viagem”;<br>6. Realizar os cadastros desejados clicando, deletando e adicionando a nova informação;<br>7. Clicar em Cadastrar Viagem 	|
 |  	|  	|
-
 | **Caso de Teste** 	| **CTU-04 – Anúncios de viagens** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a função de Anúncios de viagens 	|
