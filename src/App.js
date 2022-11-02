@@ -1,5 +1,4 @@
 import React from 'react';
-
 import {
   Text,
   StyleSheet,
@@ -7,9 +6,7 @@ import {
   Image,
   TextInput,
   TouchableOpacity,
-  
-} 
- from 'react-native';
+} from 'react-native';
 
 export default function App() {
   return (
@@ -18,30 +15,24 @@ export default function App() {
         style={styles.imagem}
         source={require('./assets/tourTicket.png.png')}
       />
-      
 
-      
-     
-     
       <TextInput
         style={styles.input}
-        placeholder="CPF "
+        placeholder="Senha"
         autoCorrect={false}
         onChangeText={() => {}}
       />
 
-       <TextInput
+      <TextInput
         style={styles.input}
-        placeholder="Nome "
+        placeholder="CPF"
         autoCorrect={false}
         onChangeText={() => {}}
-
-         
-
       />
- <TextInput
+
+      <TextInput
         style={styles.input}
-        placeholder="Senha "
+        placeholder="Nome"
         autoCorrect={false}
         onChangeText={() => {}}
       />
@@ -64,50 +55,51 @@ export default function App() {
         <Text style={styles.text}> Cadastre-se </Text>
       </TouchableOpacity>
 
-      </View>
+      
+    </View>
   );
 }
 
 const styles = StyleSheet.create({
   background: {
-    flex: 5,
+    flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
     backgroundColor: '#fff',
   },
 
   imagem: {
-    width: 280,
-    height: 280,
+    width: 180,
+    height: 180,
     justifyContent: 'center',
   },
 
   input: {
-    flex: 0.1,
+    flex: 0.0,
     alignContent: 'center',
     justifyContent: 'space-between',
-    width: '80%',
+    width: '90%',
     opacity : 0.9,
     backgroundColor: '#9DC2A1',
     color: 'black',    
-    marginBottom: 29,
-    fontSize: 18,
-    borderRadius: 9,
-    padding: 5,
+    marginBottom: 15,
+    fontSize: 17,
+    borderRadius: 8,
+    padding: 10,
     placeholder: 'white',
   },
 
   
 
   btnSubmit: {
-    width: '80%',
+    width: '90%',
     backgroundColor: '#488F51',
     opacity : 0.9,
     color: 'white',    
-    height: 40,
+    height: 45,
     alignItems: 'center',
     justifyContent: 'center',
-    marginBottom: 18,
+    marginBottom: 15,
     borderRadius: 8,
     fontSize: 20,
     
@@ -118,9 +110,9 @@ const styles = StyleSheet.create({
   },
 
   text:{
-    color: 'black',
-    fontSize: 20, 
+    color: 'white',
+    fontSize: 17, 
     opacity : 0.9,
   }
 
-});
+})
