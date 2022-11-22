@@ -14,9 +14,10 @@ const Logo = (props) =>
 
 const styles = StyleSheet.create({
   imagemlogo: {
-    width: 150,
-    height: 150,
-    justifyContent: 'center',
+    width: 120,
+    height: 120,
+    border: 1,
+    //justifyContent: 'center',
   },
 });
 
