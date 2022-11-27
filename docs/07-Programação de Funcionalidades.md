@@ -63,6 +63,8 @@ Mislene Gravação do Vídeo no link: https://photos.app.goo.gl/r9Ty19sN2QemqH8U
 
 Link Expo- Mislene:[ [https://snack.expo.dev/?platform=android](https://snack.expo.dev/?platform=android)](https://snack.expo.dev/uFXbwf-D0)
 
+https://snack.expo.dev/@misspuc/tour-ticket-tela-cadastro
+
 https://snack.expo.dev/?platform=android
 
 
