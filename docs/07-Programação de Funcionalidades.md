@@ -57,4 +57,14 @@ Após o login do usário, os anúncios de pacotes de viagens serão exibidos lis
 
 ![Tela vitrine de anúncios](img/Vitrine-de-anuncios.png)
 
-https://photos.app.goo.gl/Wnrktwk1KCmwgTJm7
+**Mislene Tavares Cota**
+
+Foi responsável por implementar, na etapa 3, a tela de cadatro de usuário e a Tela de FAQ.
+
+*Imagem tela de Cadastro De Usuário:* 
+
+![image](https://user-images.githubusercontent.com/92118593/204156002-97ccebd6-a9ba-4eae-a456-58780f0d65c6.png)
+
+*Imagem tela Da Tela De FAQ:* 
+
+![image](https://user-images.githubusercontent.com/92118593/204156162-9a062b82-5e50-43cf-9803-c078ccab0be8.png)
