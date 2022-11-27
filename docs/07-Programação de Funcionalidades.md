@@ -56,3 +56,5 @@ Após o login do usário, os anúncios de pacotes de viagens serão exibidos lis
 > - Acesso ao menu, onde poderá acessar os dados do usuário, detalhes de suas compras e entre outros.
 
 ![Tela vitrine de anúncios](img/Vitrine-de-anuncios.png)
+
+https://photos.app.goo.gl/Wnrktwk1KCmwgTJm7
