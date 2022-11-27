@@ -25,7 +25,7 @@ A tela de login oferece ao usuário um formulário para preenchimento do login c
 
 Imagem da primeira tela: 
 
-![Tela Inicial](img/tela_inicial.JPG)
+![Tela Inicial](img/login.JPG)
 
 
 
