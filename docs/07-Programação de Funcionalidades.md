@@ -32,7 +32,9 @@ Imagem da tela de login:
 
 De acordo com o requisito funcional RF-02	- A aplicação deve informar aos usuários todos os detalhes sobre o pacote ofertado, será feito uma introdução dos dados na tela de vitrine e na tela de descrição. 
 
-Imagem tela de Vitrine: 
+No código foi possível fazer uma limitação dos caracteres que serão recebidos pelos anuncios. Além de receber propriedades de navegação e botões de acesso para a página de login e de dúivdas. 
+
+*Imagem tela de Vitrine:* 
 
 ![TelaVitrine](img/Vitrine.JPG)
 
