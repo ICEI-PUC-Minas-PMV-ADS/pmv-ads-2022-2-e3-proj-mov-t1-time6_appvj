@@ -21,6 +21,8 @@ Na parte superior da tela encontra-se a logo do projeto, com sua definição de 
 
 A tela de login oferece ao usuário um formulário para preenchimento do login com os campos: email e senha e  um botão para Acessar. Além disso há um botão de direcionamento para a tela de cadastro. 
 
+*Tela completamente componetizada*
+
 
 
 Imagem da primeira tela: 
