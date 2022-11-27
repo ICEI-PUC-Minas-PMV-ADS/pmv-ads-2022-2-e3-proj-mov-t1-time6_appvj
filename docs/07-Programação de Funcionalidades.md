@@ -25,11 +25,16 @@ A tela de login oferece ao usuário um formulário para preenchimento do login c
 
 
 
-Imagem da primeira tela: 
+Imagem da tela de login: 
 
 ![Tela Inicial](img/login.JPG)
 
 
+De acordo com o requisito funcional RF-02	- A aplicação deve informar aos usuários todos os detalhes sobre o pacote ofertado, será feito uma introdução dos dados na tela de vitrine e na tela de descrição. 
+
+Imagem tela de Vitrine: 
+
+![TelaVitrine](img/Vitrine.JPG)
 
 **Fernanda Araújo Macieira**
 
