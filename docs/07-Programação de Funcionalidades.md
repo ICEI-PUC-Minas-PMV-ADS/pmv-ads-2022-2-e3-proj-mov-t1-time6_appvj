@@ -59,6 +59,10 @@ Após o login do usário, os anúncios de pacotes de viagens serão exibidos lis
 
 **Mislene Tavares Cota**
 
+Mislene Gravação do Vídeo no link:https://photos.app.goo.gl/r9Ty19sN2QemqH8U8
+
+Link Expo- Mislene: https://snack.expo.dev/?platform=android
+
 Foi responsável por implementar, na etapa 3, a tela de cadatro de usuário e a Tela de FAQ.
 
 *Imagem tela de Cadastro De Usuário:* 
