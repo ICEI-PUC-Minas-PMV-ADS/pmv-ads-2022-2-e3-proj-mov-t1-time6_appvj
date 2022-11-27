@@ -6,12 +6,12 @@
 
 # Evolução do projeto
 
-# Programação- Tiago
+**Programação- Tiago
 Explicação geral no link: https://youtu.be/gGD3bJZApgU
 
-** Link Expo- Tiago: https://snack.expo.dev/@tiagomg/tour-ticket?platform=android
+**Link Expo- Tiago: https://snack.expo.dev/@tiagomg/tour-ticket?platform=android
 
-** Componetização:
+**Componetização:
 
 Foram feitas as componetização dos principais recursos usados nas páginas (Tiago), como os botões, header, Container, Body, Input, Logo, e campo onde recebe as viagens. 
 
