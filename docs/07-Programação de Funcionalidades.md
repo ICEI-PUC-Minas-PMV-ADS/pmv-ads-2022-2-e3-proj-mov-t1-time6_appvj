@@ -6,8 +6,10 @@
 
 # Evolução do projeto
 
-** Programação- Tiago
+# Programação- Tiago
 Explicação geral no link: https://youtu.be/gGD3bJZApgU
+
+** Link Expo- Tiago: https://snack.expo.dev/@tiagomg/tour-ticket?platform=android
 
 ** Componetização:
 
