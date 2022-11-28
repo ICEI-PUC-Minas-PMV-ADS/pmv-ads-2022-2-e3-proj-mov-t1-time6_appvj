@@ -35,7 +35,7 @@ A análise do resultado do teste de usabilidade à distância deve ser igual ao 
 
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| Tiago	| 003 | 2min  | 3 | Possivel preencher dados, erro no acesso dos dados no login | E preciso confirmar se os inputs não fiquem tão próximos, mas está funcional  |
+| Usuário 1	| CTU-02	| 003 | 2min  | 3 | Possivel preencher dados, erro no acesso dos dados no login | E preciso confirmar se os inputs não fiquem tão próximos, mas está funcional  |
 | Usuário 2 | --- 	| --- | ---  | --- | --- | --- |
 | Usuário 3	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 4	| --- 	| --- | ---  | --- | --- | --- |
