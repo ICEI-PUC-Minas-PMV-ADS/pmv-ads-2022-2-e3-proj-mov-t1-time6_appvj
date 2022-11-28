@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
   imagemlogo: {
     width: 120,
     height: 120,
-    border: 1,
+    //border: 1,
     //justifyContent: 'center',
   },
 });

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tour-ticket",
-    "slug": "snack-93fc72f4-780b-481e-b2b7-5601068f3fe7",
+    "name": "github.com/icei-puc-minas-pmv-ads/pmv-ads-2022-2-e3-proj-mov-t1-time6_appvj:src@dev_julio",
+    "slug": "snack-56df9789-56d8-4144-be0f-e8f5bee7bdc7",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e3-proj-mov-t1-time6_appvj:src@dev_julio @ Nov 27, 2022"
   }
 }

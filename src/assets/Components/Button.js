@@ -10,7 +10,6 @@ const MyButton = (props) => {
 };
 
 
-
 const styles = StyleSheet.create({
    btnSubmit: {
     width: '88%',
@@ -20,8 +19,8 @@ const styles = StyleSheet.create({
     height: 35,
     alignItems: 'center',
     justifyContent: 'space-around',
-    marginBottom: 2,
-    marginTop: 2,
+    marginBottom: 6,
+    marginTop: 6,
     borderRadius: 8,
     fontSize: 20, 
   },

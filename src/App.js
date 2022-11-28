@@ -1,15 +1,14 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
+import { NavigationContainer } from '@react-navigation/native';
 
-import Home from './assets/pages/Home'
+import Main from './assets/navigation/Main';
 
 const App = () => {
-
-  return( 
-    <Home/>
-  )
-  
+  return (
+    <NavigationContainer translucent={true}>
+      <Main />
+    </NavigationContainer>
+  );
 };
-
-
 
 export default App;

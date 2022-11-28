@@ -8,7 +8,7 @@ import Header from '../Components/Header';
 import Input from '../Components/Input';
 import Button from '../Components/Button';
 
-const Destino = () => {
+const Sobre = () => {
   return (
     <Container>
       <Header title={'Cadastro de Serviços'} goBack={() => navigation.goBack()}>
@@ -69,4 +69,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default Destino;
+export default Sobre;

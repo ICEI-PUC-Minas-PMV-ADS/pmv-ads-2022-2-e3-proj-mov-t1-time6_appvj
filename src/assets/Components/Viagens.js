@@ -1,36 +1,22 @@
 import React from 'react';
-import {View, Text, TouchableOpacity, Image, StyleSheet} from 'react-native';
+import { View, Text, TouchableOpacity, Image, StyleSheet } from 'react-native';
 
-
-
-
-const Viagens = (props) => 
-{
-  function filterDesc(desc){
-    if(desc.length < 27){
+const Viagens = (props) => {
+  function filterDesc(desc) {
+    if (desc.length < 27) {
       return desc;
     }
 
     return `${desc.substring(0, 24)}...`;
   }
 
-  
-  return(
+  return (
     <TouchableOpacity style={styles.container}>
-      <Image
-        source={props.img}
-        style={styles.viagensImg}
-      />
-      <Text style={styles.viagensText}>
-        {filterDesc(props.children)}
-      </Text>
-      <Text style={styles.viagensText}>
-        {props.cost}
-      </Text>
-
+      <Image source={props.img} style={styles.viagensImg} />
+      <Text style={styles.viagensText}>{filterDesc(props.children)}</Text>
+      <Text style={styles.viagensText}>{props.cost}</Text>
     </TouchableOpacity>
-    
-  );  
+  );
 };
 
 const styles = StyleSheet.create({
@@ -41,20 +27,16 @@ const styles = StyleSheet.create({
     marginRight: 5,
     marginLeft: 5,
     marginBottom: 5,
-       
   },
-  viagensImg:{
-      width: 160,
-      height: 160,
-      justifyContent: 'space-between',
-  
-  viagensText:{
-    fontSize:16,
-  }
+  viagensImg: {
+    width: 160,
+    height: 160,
+    justifyContent: 'space-between',
 
-      
-
-  }
+    viagensText: {
+      fontSize: 16,
+    },
+  },
 });
 
 export default Viagens;
