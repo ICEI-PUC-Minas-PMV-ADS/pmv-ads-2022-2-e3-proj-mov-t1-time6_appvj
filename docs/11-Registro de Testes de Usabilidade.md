@@ -23,6 +23,15 @@ Seguindo o plano de testes: CTU-02 – "Login de usuário".
 
 Tela segue padrões como identificado no RF-02, acessando banco de dados para busca de informações de cadastro dos usuários. 
 
+Erros encontrados: Página ainda encontra alguns erros na confirmação dos dados. 
+
+Plano de Teste= Tela cadastro: 
+
+![Cadastro](img/Cadastro_viagem.JPG)
+
+A tela de resposta está respeitando os principios da Gestalt, sendo possível que o usuário cadastre seus dados onde serão armazenados no Bando de dados. 
+
+![resposta](img/resposta.JPG)
 
 
 
