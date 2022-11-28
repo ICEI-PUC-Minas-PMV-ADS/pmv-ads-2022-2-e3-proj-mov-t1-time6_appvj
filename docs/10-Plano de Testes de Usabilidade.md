@@ -35,8 +35,8 @@ A análise do resultado do teste de usabilidade à distância deve ser igual ao 
 
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| CTU-02	| 003 | 2min  | 3 | Possivel preencher dados, erro no acesso dos dados no login | E preciso confirmar se os inputs não fiquem tão próximos, mas está funcional  |
-| Usuário 2 | --- 	| --- | ---  | --- | --- | --- |
+| Usuário 1	| CTU-02	| 2min |  3  | 1 | Possivel preencher dados, erro no acesso dos dados no login | E preciso confirmar se os inputs não fiquem tão próximos, mas está funcional  |
+| Usuário 2 | CTU-04 	| 20 segundos | 1 |0| --- | É possível acessar o acesso as viagens de forma fácil e intuitiva. 
 | Usuário 3	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 4	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 5	| --- 	| --- | ---  | --- | --- | --- |
