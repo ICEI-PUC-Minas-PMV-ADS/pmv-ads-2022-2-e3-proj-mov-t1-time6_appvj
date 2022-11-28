@@ -38,6 +38,12 @@ No código foi possível fazer uma limitação dos caracteres que serão recebid
 
 ![TelaVitrine](img/Vitrine.JPG)
 
+Aplicação da navegação da tela de Dúvidas: 
+
+![TelaVitrine](img/Duvidas.JPG)
+
+
+
 **Fernanda Araújo Macieira**
 
 Foi responsável por implementar, na etapa 3, a tela de cadatro de viagens.
