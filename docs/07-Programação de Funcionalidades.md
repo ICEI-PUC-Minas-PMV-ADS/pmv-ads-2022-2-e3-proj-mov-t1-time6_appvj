@@ -45,6 +45,7 @@ Aplicação da navegação da tela de Dúvidas:
 
 
 **Fernanda Araújo Macieira**
+Explicação etapa 4: https://user-images.githubusercontent.com/90113699/204168704-ef63f293-eed4-434e-b760-45d4db7369eb.mp4
 
 Foi responsável por implementar, na etapa 3, a tela de cadatro de viagens.
 
