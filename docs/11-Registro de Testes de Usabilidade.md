@@ -1,6 +1,5 @@
 # Registro de Testes de Usabilidade
-
-Segundo ao plano de teste de softeare:  "CT-01 Página inicial" e os Requisitos: 
+Seguindo o plano de teste de software:  "CT-01 Página inicial" e os Requisitos: 
 
 "RF-01 A Aplicação deve apresentar na página principal a descrição do serviço e como ele pode ajudar o usuário;
 
@@ -20,6 +19,9 @@ Os campos são simples e intuitivos, seguindo a parametrização já reconhecida
 
 ![Tela Inicial](img/login.JPG)
 
+Seguindo o plano de testes: CTU-02 – "Login de usuário".
+
+Tela segue padrões como identificado no RF-02, acessando banco de dados para busca de informações de cadastro dos usuários. 
 
 
 
