@@ -9,7 +9,7 @@ import Header from '../Components/Header'
 const DATA = [
   {
     
-    data: ["PERFUNTAS FREQUENTES"]
+    data: ["PERGUNTAS FREQUENTES"]
   },
   {
     title: "O site é Seguro?",
