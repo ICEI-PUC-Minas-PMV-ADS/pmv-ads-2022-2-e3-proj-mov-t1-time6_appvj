@@ -8,6 +8,7 @@
 
 **Programação- Tiago**
 Explicação geral no link: https://youtu.be/gGD3bJZApgU
+Demonstração de uso das funcionalidades: https://youtu.be/tqvGKF0YJ4Q
 
 **Link Expo- Tiago**: https://snack.expo.dev/@tiagomg/tour-ticket?platform=android
 
