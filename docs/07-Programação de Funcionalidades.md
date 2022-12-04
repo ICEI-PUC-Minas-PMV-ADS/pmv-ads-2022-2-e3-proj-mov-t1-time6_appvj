@@ -10,7 +10,7 @@
 
 Explicação geral no link: https://youtu.be/gGD3bJZApgU
 
-Demonstração de uso das funcionalidades: https://youtu.be/tqvGKF0YJ4Q
+Demonstração de uso das funcionalidades com API e Autenticação: [https://www.youtube.com/watch?v=vOPbvGkE8BY]
 
 **Link Expo- Tiago**: https://snack.expo.dev/@tiagomg/tour-ticket?platform=android
 
