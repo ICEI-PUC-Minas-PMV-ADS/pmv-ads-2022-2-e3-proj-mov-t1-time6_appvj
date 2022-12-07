@@ -14,6 +14,7 @@ Diante disto, o presente trabalho tem como objetivo desenvolver uma solução te
 O objetivo geral deste projeto é tornar as compras de pacotes de viagens mais eficientes. Como objetivos específicos, podemos ressaltar:
 
 ● Facilitar para o cliente e/ou vendedor, a compra de pacotes de viagens;
+
 ● Agilizar o processo de atendimento, tornando a experiência de comprar as viagens mais fácil e prática;
 
 ## Justificativa
