@@ -44,9 +44,9 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Julio;
-- Product Owner: Thiago;
-- Equipe de Desenvolvimento: Fernanda, Mislene, Thiago, Julio, Paulo e Ian;
-- Equipe de Design: Thiago e Mislene.
+- Product Owner: Tiago;
+- Equipe de Desenvolvimento: Fernanda, Mislene, Tiago Miquéias, Julio, Paulo e Ian;
+- Equipe de Design: Tiago e Mislene.
 
 ### Ferramentas
 
