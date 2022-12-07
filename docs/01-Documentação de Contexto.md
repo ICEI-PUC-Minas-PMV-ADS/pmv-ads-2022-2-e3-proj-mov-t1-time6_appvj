@@ -26,6 +26,6 @@ Essa expectativa se justifica, dada a conjuntura, o transporte rodoviário de lo
 ¹ Busca por passagens rodoviárias tem crescimento de 116% em comparação com 2021. Disponível em: <https://diariodotransporte.com.br/2022/02/01/busca-por-passagens-rodoviarias-tem-crescimento-de-116-em-comparacao-com-2021/>. Acesso em: 9 sep. 2022.
 
 ## Público-Alvo
-**Pessoas de 18 a 90 anos que desejam encontrar pacotes de viagens com valores acessíveis para os principais pontos turísticos do Brasil e do Mundo. 
+● Pessoas de 18 a 90 anos que desejam encontrar pacotes de viagens com valores acessíveis para os principais pontos turísticos do Brasil e do Mundo. 
 
-**Autônomos e empresas que desejam ter maior acessibilidade ao seu portfólio de vendas, que seja capaz de efetuar a venda dos pacotes de turismo.
+● Autônomos e empresas que desejam ter maior acessibilidade ao seu portfólio de vendas, que seja capaz de efetuar a venda dos pacotes de turismo.
