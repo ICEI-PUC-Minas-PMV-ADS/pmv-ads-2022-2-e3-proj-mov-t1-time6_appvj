@@ -1,15 +1,21 @@
 import React, {useState} from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import UserProvider from './assets/contexts/UserContexts'
+import Route from './assets/navigation/Route'
 
-import Home from './assets/pages/Home'
+
 
 const App = () => {
 
   return( 
-    <Home/>
+  <UserProvider>
+    <NavigationContainer translucent={true}>      
+      <Route/>
+    </NavigationContainer>
+  </UserProvider>
   )
   
 };
-
 
 
 export default App;

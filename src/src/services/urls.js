@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://silly-cows-speak-177-39-123-148.loca.lt'
