@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StyleSheet, Text, Image } from 'react-native';
+import { StyleSheet, Text, Image, View } from 'react-native';
 import { Appbar } from 'react-native-paper';
 
 import Container from '../Components/Container';

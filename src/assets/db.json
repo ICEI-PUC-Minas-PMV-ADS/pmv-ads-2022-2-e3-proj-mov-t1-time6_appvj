@@ -1,0 +1,50 @@
+{
+  "users": [],
+  "Vitrine": [
+	  {
+      "id": 1,
+      "titulo": "Excursão para Fernando de Noronha",
+      "data_inicio": "01/02/2023",
+      "data_fim": "15/02/2023",
+      "imagem": "https://bn1304files.storage.live.com/y4m-jomjn3EZvhSh8NAc8WPpi9HzxQ6k5Bnl3hFVlQmx3PYCtPKHZ5VwJhakXPUDnAFjXETwjWpi9eTHFsmi6xi5itToYQj69GRH0yJZlbvvsiDyX12tkFrcgCL1OVB3hCsRpM6Eszl_3AJbMnR-9xkcHz7YhYeeoHhlhC7YpEmL2pbb6r1ya9lt4dB49_wM1bC?width=1200&height=720&cropmode=none",
+      "preco": 1569.99,
+      "vendedor": "Madalena Fernandes"
+	  },
+	  {
+      "id": 2,
+      "titulo": "Visite a Chapada dos Veadeiros",
+      "data_inicio": "15/01/2023",
+      "data_fim": "20/01/2023",
+      "imagem": "https://bn1304files.storage.live.com/y4mGNIg7HLkw87NX_b3-fgfGm7yOSoPSjUxs9Ir0pEX7iipl3W1DiFlEu--PzTeS-m5z9rvLZ1KMKjT9Vemy2WkqIv7NVM-Wc4PxgqgWCgNET2mxLqt1XMy6E6ch9e6O4qFXqxMhOwnrYSk2tQA3poDM0mnN6MUSep68h-QNLCaGqMw-VMmiR4r3xEwUj77-2vo?width=1200&height=800&cropmode=none",
+      "preco": 1569.99,
+      "vendedor": "Madalena Fernandes"
+	  },
+	  {
+      "id": 3,
+      "titulo": " Porto Iguazú, no lado argentino",
+      "data_inicio": "10/10/2023",
+      "data_fim": "25/10/2023",
+      "imagem": "https://bn1304files.storage.live.com/y4m-jomjn3EZvhSh8NAc8WPpi9HzxQ6k5Bnl3hFVlQmx3PYCtPKHZ5VwJhakXPUDnAFjXETwjWpi9eTHFsmi6xi5itToYQj69GRH0yJZlbvvsiDyX12tkFrcgCL1OVB3hCsRpM6Eszl_3AJbMnR-9xkcHz7YhYeeoHhlhC7YpEmL2pbb6r1ya9lt4dB49_wM1bC?width=1200&height=720&cropmode=none",
+      "preco": 6999.75,
+      "vendedor": "Divina Soares"
+	  },
+	  {
+      "id": 4,
+      "titulo": "Jericoacoara, Ceará",
+      "data_inicio": "12/10/2023",
+      "data_fim": "17/10/2023",
+      "imagem": "https://bn1304files.storage.live.com/y4miHCxbguun2TG97936fZFljqkHp38LwjcMzU7yEq2ptHqMk63NF_s68eCXG2Dv--mpZt9NnZzDJli-c0-b9lqA6EFh-QnMuZCDeuTgGnU6dCQbcF8Xhxmhgi_M0x7weRRu45SFF4a_jcwmzu55ivt0v5QcXAAqHEkoNh7vUV8MimYae42yzNedjx7zML99n1N?width=1200&height=800&cropmode=none",
+      "preco": 1899.89,
+      "vendedor": "Algusto Lima"
+	  },
+    {
+      "id": 5,
+      "titulo": "Férias em Maraú, Bahia",
+      "data_inicio": "12/10/2023",
+      "data_fim": "17/10/2023",
+      "imagem": "https://bn1304files.storage.live.com/y4meHN4MN5JhnYzjpqoICaeY1qDVHZ34OUDV0UnS1L19rbTguV7G1Rtg7PqohgR7pmxpcZtPFxDcB-CWNNPFkt2ztjg_3aPGvB6JqjKidEEgojLqbvdgND6GkudIaGsD8ar-oxXq23tpoXZvMJ5b0mAAMTn4K799cwW6VIp-uFqqLSUAfXoFEWxaMOP6wMt9tzC?width=1200&height=801&cropmode=none",
+      "preco": 10654.45,
+      "vendedor": "Algusto Lima"
+	  }
+  ]
+}

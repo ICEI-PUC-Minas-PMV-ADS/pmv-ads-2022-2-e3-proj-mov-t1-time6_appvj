@@ -10,13 +10,15 @@ import Button from '../Components/Button';
 import Logo from '../Components/Logo';
 import Header from '../Components/Header';
 
-import { register } from '../services/auth.services';
-//import { updateCadastros, getCadastros } from '../services/usuariosDB';
+import {useUser} from '../context/UserContext';
+
+import { login } from '../services/auth.services';
 
 const Login = ({ route }) => {
   const navigation = useNavigation();
-
+  
   const { item } = route.params ? route.params : {};
+  
   const handleSalvar = () => {
     if (item) {
       updateCadastros({

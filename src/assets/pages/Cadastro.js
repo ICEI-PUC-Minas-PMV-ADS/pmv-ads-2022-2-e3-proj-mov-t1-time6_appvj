@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Appbar } from 'react-native-paper';
 import { StyleSheet, Text } from 'react-native';
 

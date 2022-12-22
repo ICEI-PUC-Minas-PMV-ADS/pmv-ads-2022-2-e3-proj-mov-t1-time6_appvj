@@ -3,7 +3,10 @@ import React, { createContext, useState, useContext } from 'react';
 export const UserContext = createContext();
 
 export default function UserProvider({ children }) {
-  const [signed, setSigned] = useState(true);
+
+  // Guarda se o usuário está logado
+  const [signed, setSigned] = useState(false);
+  // Guarda o nome do usuário logado
   const [name, setName] = useState('');
 
   return (
@@ -19,6 +22,7 @@ export default function UserProvider({ children }) {
   );
 }
 
+// Hook
 export function useUser() {
   const context = useContext(UserContext);
   const { signed, setSigned, name, setName } = context;

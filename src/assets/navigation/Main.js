@@ -4,16 +4,16 @@ import { NavigationContainer } from '@react-navigation/native';
 
 import Home from '../pages/Home';
 import Cadastro from '../pages/Cadastro';
-import Vitrine from '../pages/Vitrine';
 import Login from '../pages/login';
 import Duvidas from '../pages/Duvidas';
 import Viagem from '../pages/Viagem';
+import Vitrine from '../pages/Vitrine';
 
 const Stack = createNativeStackNavigator();
 
 const Main = () => {
   return (
-    <Stack.Navigator initialRouteName="Home">
+    <Stack.Navigator initialRouteName="Destinos">
       <Stack.Screen
         name="Home"
         component={Home}
@@ -53,15 +53,6 @@ const Main = () => {
       <Stack.Screen
         name="Duvidas"
         component={Duvidas}
-        options={{
-          //some o header da propriedade
-          header: () => null,
-        }}
-      />
-      
-      <Stack.Screen
-        name="Viagem"
-        component={Viagem}
         options={{
           //some o header da propriedade
           header: () => null,
